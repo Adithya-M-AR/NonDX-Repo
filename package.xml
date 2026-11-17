@@ -25,7 +25,6 @@
     </types>
     <types>
         <members>Admin</members>
-        <members>Analytics Cloud Integration User</members>
         <name>Profile</name>
     </types>
 </Package>
