@@ -2,7 +2,6 @@
     <version>68.0</version>
     <types>
         <members>dlrs__DeclarativeLookupRollupSummaries2</members>
-        <members>orgcheck__OrgCheck_APP</members>
         <name>CustomApplication</name>
     </types>
     <types>
